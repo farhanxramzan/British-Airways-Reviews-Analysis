@@ -77,3 +77,5 @@ The data for this project was collected from online customer reviews of British 
 #### Conclusion
 
 The British Airways Reviews Data Analysis project provided valuable insights into customer perceptions and identified critical areas for improvement. By focusing on enhancing food quality, seat comfort, entertainment options, and ground service, British Airways can significantly improve overall customer satisfaction and value perception.
+
+![British Airways Reviews](https://github.com/farhanxramzan/British-Airways-Reviews-Analysis/assets/170033603/ddba9c8e-3cf6-4308-8176-ac55d5e28cad)
